@@ -59,3 +59,5 @@ Here, we collect definitions of important concepts
 **Resampling:** The process of repeatedly generating new samples from training data in order to understand uncrertenties in the data being used.
 
 **Bootstrapping**: Bootstrapping is a resampling technique in statistics where multiple random samples are drawn with replacement from a single dataset. This method is employed to estimate the sampling distribution of a statistic and assess its variability.
+
+**Activation Function**: A user-specified function that provides a nonlinear learning aspect between the inputs and outputs.
