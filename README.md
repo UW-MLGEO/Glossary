@@ -87,3 +87,5 @@ Here, we collect definitions of important concepts
 **Big O notation**: A mathematical concept used in computer science to describe the performance or complexity of an algorithm's runtime or memory usage as the input size (denoted as n) becomes large.
 
 **Batch Normalization**: In deep learning, each step (or batch) of model training must be normalized to have zero mean and unit variance. This prevents numerically large features from dominating the training process.
+
+**supervised learning** a type of machine learning where a model is trained on labeled data, meaning the input data is paired with the correct output, and the model learns to make predictions or classify new, unseen data based on this training.
