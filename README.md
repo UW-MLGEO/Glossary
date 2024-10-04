@@ -105,3 +105,5 @@ Here, we collect definitions of important concepts
 **Auto-Encoders**: neural networks that learn to efficiently compress and encode data then learn to reconstruct the data back from the reduced encoded representation to a representation that is as close to the original input as possible.
 
 **Inference**: when a trained model is used to infer (predict) values using live data.
+
+**Regularization**: Regularization is a technique used in machine learning to prevent overfitting by adding a penalty to the model’s complexity, ensuring that it generalizes better to unseen data.
