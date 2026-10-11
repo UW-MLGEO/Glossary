@@ -22,6 +22,8 @@ Here, we collect definitions of important concepts
 
 **Bootstrapping**: Bootstrapping is a resampling technique in statistics where multiple random samples are drawn with replacement from a single dataset. This method is employed to estimate the sampling distribution of a statistic and assess its variability.
 
+**Calibration**: Agreement between a model's predicted probabilities and observed outcome frequencies, e.g., events assigned a 70% probability occur approximately 70% of the time.
+
 **Clustering**: An unsupervised ML method that groups unlabelled data together by finding how similar/different different pieces of data are to each other. 
 
 **Contrastive Learning**: A deep learning technique where similar patterns detected in the data are pushed close together in a representation space, while dissimilar patterns are pushed far apart.
